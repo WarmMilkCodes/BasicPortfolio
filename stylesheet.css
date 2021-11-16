@@ -24,10 +24,12 @@ img {
     width: 150px;
 }
 
+/* visited link */
 a:visited {
     color: red;
 }
 
-a:hover {
+/* unvisited link */
+a:link {
     color: blue;
 }
