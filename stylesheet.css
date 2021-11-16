@@ -24,12 +24,7 @@ img {
     width: 150px;
 }
 
-/* visited link */
-a:visited {
+/* hover */
+h1:hover {
     color: red;
-}
-
-/* unvisited link */
-a:link {
-    color: blue;
 }
