@@ -24,6 +24,6 @@ img {
     width: 150px;
 }
 
-img:hover {
+.contactList:hover {
     color: blue;
 }
