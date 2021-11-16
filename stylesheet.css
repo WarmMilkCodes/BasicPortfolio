@@ -25,12 +25,13 @@ img {
 }
 
 /* hover */
-h1:hover h2:hover h3:hover {
+h1:hover, h2:hover, h3:hover {
     color: red;
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
 }
