@@ -24,6 +24,6 @@ img {
     width: 150px;
 }
 
-il:hover {
+il a:hover {
     color: red;
 }
